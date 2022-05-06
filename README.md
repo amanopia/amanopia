@@ -38,7 +38,7 @@
 
 # Reach me via
 <span>
-  <a href="https://www.linkedin.com/in/aman-verma-82b823185/">
+  <a href="https://www.linkedin.com/in/aman-verma-82b823185/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fz7eaman@gmial.com">

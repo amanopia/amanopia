@@ -1,8 +1,8 @@
 # Hi there, I'm Aman 👋
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact" />
 
 # Skills
 

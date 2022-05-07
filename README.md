@@ -4,7 +4,7 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />
 
-# Skills
+## Skills
 
 ### languages
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -35,16 +35,16 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </span>
 
-<h1>
+<h2>
   <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
   Streak stats
-</h1>
+</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanopia&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
-# My contribution graph
+## My contribution graph
 <img src="https://activity-graph.herokuapp.com/graph?username=amanopia&theme=redical&custom_title=Aman's%20Contribution%20Graph"/>
 
-# Reach me via
+## Reach me via
 <span>
   <a href="https://www.linkedin.com/in/aman-verma-82b823185/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />

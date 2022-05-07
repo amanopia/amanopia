@@ -4,7 +4,7 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />
 
-## Skills
+## 💻 My skills
 
 ### languages
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
 <h2>
@@ -42,13 +44,19 @@
 </h2>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanopia&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
-## My contribution graph
+<h2>
+  
+  📈  My contribution graph
+</h2>
 <img src="https://activity-graph.herokuapp.com/graph?username=amanopia&theme=redical&custom_title=Aman's%20Contribution%20Graph"/>
 
 ## Reach me via
 <span>
   <a href="https://www.linkedin.com/in/aman-verma-82b823185/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/volvidem">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="mailto:fz7eaman@gmial.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />

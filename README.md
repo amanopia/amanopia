@@ -2,7 +2,7 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />
 
 # Skills
 
@@ -35,6 +35,14 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </span>
 
+<h1>
+  <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
+  Streak stats
+</h1>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amanopia&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+# My contribution graph
+<img src="https://activity-graph.herokuapp.com/graph?username=amanopia&theme=redical&custom_title=Aman's%20Contribution%20Graph"/>
 
 # Reach me via
 <span>
@@ -45,3 +53,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </span>
+
+
+

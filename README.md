@@ -6,7 +6,7 @@
 
 ## 💻 My skills
 
-### languages
+### Languages
 <span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -45,12 +45,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanopia&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 
 <h2>
-  
   📈  My contribution graph
 </h2>
 <img src="https://activity-graph.herokuapp.com/graph?username=amanopia&theme=redical&custom_title=Aman's%20Contribution%20Graph"/>
 
-## Reach me via
+<h2>
+  🚀 Reach me via
+</h2>
 <span>
   <a href="https://www.linkedin.com/in/aman-verma-82b823185/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />

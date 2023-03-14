@@ -1,7 +1,5 @@
 # Hi there, I'm Aman 👋
 
-![I am a developer & content creator](https://github.com/amanopia/amanopia/blob/main/myro_test.png)
-
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />

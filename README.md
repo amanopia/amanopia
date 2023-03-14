@@ -1,5 +1,5 @@
 # Hi there, I'm Aman 👋
-<img width="60%" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1150&q=80" />
+
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />
@@ -43,11 +43,6 @@
   Streak stats
 </h2>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanopia&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-<h2>
-  📈  My contribution graph
-</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=amanopia&theme=redical&custom_title=Aman's%20Contribution%20Graph"/>
 
 <h2>
   🚀 Reach me via

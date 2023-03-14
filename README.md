@@ -1,5 +1,5 @@
 # Hi there, I'm Aman 👋
-
+<img width="60%" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1150&q=80" />
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=amanopia&show_icons=true&theme=radical" />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanopia&layout=compact&theme=radical" />

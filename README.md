@@ -54,7 +54,7 @@
   <a href="https://twitter.com/volvidem">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="mailto:fz7eaman@gmial.com">
+  <a href="mailto:amanvermaspace@gmial.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </span>
